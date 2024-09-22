@@ -1,15 +1,13 @@
-👋 Hello, I'm Suhas, an Information Science Engineering student at M S Ramaiah Institute of Technology.
+👋 Hello, I'm Suhas, an Information Science Engineering student at M S Ramaiah Institute of Technology in Bengaluru.
 
-🧠I'm actively exploring Machine learning. I'm excited to contribute to the ever-evolving world of AI.
+🧠 I’m actively exploring machine learning and its applications in AI. My recent projects include building a neural network for name generation with **MakeMore** and developing a dog breed identification app using deep learning with **BreedSnap**, showcasing my passion for innovative solutions.
 
-💻 Exploring the world of Linux is another avenue I'm deeply involved in.
-Being part of a like-minded community,i continuously learn and share knowledge about open-source technology.
+💻 I'm deeply involved in Linux and open-source technology, continuously learning and sharing knowledge within my community.
 
-🖥️I have a keen interest in web development, building dynamic websites using React.js and modern web technologies. I'm also learning backend development with Node.js, Express.js, and various databases.
+🎵 Beyond tech, I’m a music enthusiast and have composed numerous EDM tracks and remixes. You can explore my work on my YouTube channel:
+[Flyerss](https://youtube.com/@flyerss2809?si=LRun418lBdTd7mIi).
 
-🎵Beyond tech, I'm also a music enthusiasts. I've composed numerous EDM tracks and created exciting remixes.You can find my work on my YouTube channel,where I share my composition and remixes.
-
-Feel free to connect with me.I'm always open to exciting opportunity and conversations.
+Feel free to reach out—I'm always open to engaging conversations and collaborations!
 [LinkedIn](https://www.linkedin.com/in/suhas-s-4aa89425a/)
 
 <!--- 💞️ I’m looking to collaborate on ...
