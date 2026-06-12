@@ -1,19 +1,83 @@
-👋 Hello, I'm Suhas, an Information Science Engineering student at M S Ramaiah Institute of Technology in Bengaluru.
+# Hi, I'm Suhas 👋
 
-🧠 I’m actively exploring machine learning and its applications in AI. My recent projects include building a neural network for name generation with **MakeMore** and developing a dog breed identification app using deep learning with **BreedSnap**, showcasing my passion for innovative solutions.
+Software Engineer and Project Intern at Oracle, passionate about backend development, distributed systems, and building scalable products.
 
-💻 I'm deeply involved in Linux and open-source technology, continuously learning and sharing knowledge within my community.
+## About Me
 
-🎵 Beyond tech, I’m a music enthusiast and have composed numerous EDM tracks and remixes. You can explore my work on my YouTube channel:
-[Flyerss](https://youtube.com/@flyerss2809?si=LRun418lBdTd7mIi).
+- Project Intern at Oracle working on Java backend services and API migration
+- Former Backend Developer Intern at NFThing
+- B.E. Information Science student at Ramaiah Institute of Technology (CGPA: 9.0)
+- Strong foundation in Data Structures & Algorithms, Operating Systems, Computer Networks, and DBMS
+- Interested in Backend Engineering, System Design, Cloud, and Developer Tools
 
-Feel free to reach out—I'm always open to engaging conversations and collaborations!
-[LinkedIn](https://www.linkedin.com/in/suhas-s-4aa89425a/)
+## Tech Stack
 
-<!--- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...  --->
+### Languages
+Java • Python • JavaScript
 
-<!---
-suhass434/suhass434 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Backend
+Spring Boot • Micronaut • Node.js • REST APIs
+
+### Frontend
+React • Next.js • HTML • CSS
+
+### Databases
+MongoDB • SQL
+
+### Cloud & DevOps
+Docker • Jenkins • AWS • Oracle Cloud Infrastructure (OCI)
+
+## Featured Projects
+
+### GrooveGrid
+A desktop productivity platform for music producers.
+
+- Built using React, Next.js, Tauri, Rust, SQLite, and MongoDB
+- Kanban-based workflow management
+- Project analytics and production tracking
+- Subscription billing and authentication system
+- Offline-first architecture
+
+🔗 https://groovegrid.org
+
+### PickMyCollege
+A data-driven college selection platform for KCET students.
+
+- Served 3000+ users within 2 weeks
+- Built using React, Node.js, Python, and MongoDB
+- Automated historical cutoff data processing
+- Optimized response times through caching and pre-computation
+
+🔗 https://pick-my-college2-0.vercel.app/
+
+## Experience
+
+### Oracle | Project Intern
+- Migrating Oracle Aconex Mobile APIs from Spring Boot to Micronaut
+- Refactoring backend services into a modular Java architecture
+- Working with REST APIs, testing, serialization, and framework migration
+
+### NFThing | Backend Developer Intern
+- Built RESTful APIs for Deflix
+- Worked with Node.js and MongoDB
+- Added logging, testing, and backend optimizations
+
+## Achievements
+
+- Winner, Enigma 2k24 Hackathon
+- 1st Runner-Up, Hackwell 5.0
+
+## Beyond Coding
+
+🎵 I'm also a music enthusiast and EDM producer. I enjoy creating original tracks, remixes, and experimenting with sound design.
+
+YouTube:
+https://youtube.com/@flyerss2809
+
+## Connect With Me
+
+💼 LinkedIn  
+https://www.linkedin.com/in/suhass434/
+
+📧 Email  
+suhass1345@gmail.com
